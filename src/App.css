@@ -1,0 +1,46 @@
+/* 
+.todo-container{
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  max-width: 700px; 
+
+}
+
+.todo-container h1{
+  font-weight:700;
+  font-size:40px;
+  margin:10px;
+ margin-bottom:20px;
+
+ 
+
+}
+
+input{
+  width:40%;
+}
+
+
+
+ */
+
+ 
+
+input{
+  width:59%;
+}
+
+.item-container{
+  text-align:left;
+}
+
+.kg-button{
+  min-width:80px;
+}
+.kg-row{
+  margin:10px 6px;
+
+}
